@@ -1,2 +1,3 @@
 Faker
 snowflake-connector-python
+boto3
